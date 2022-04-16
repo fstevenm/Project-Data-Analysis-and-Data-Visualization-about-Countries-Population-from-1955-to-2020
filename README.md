@@ -146,6 +146,6 @@ Reference used:
  
 ---
 
-The full project, include the code, is in the folder 'Data Analysis and Data Visualization about Countries Population'
+The full project, include the code, is in the file with name file 'Data Analysis and Data Visualization - Countries Population from 1955 to 2020.ipynb'
 
 #### Don't forget to provide the source if you use this project!
